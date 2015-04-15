@@ -82,6 +82,19 @@ Sara scenario 2
     handla denna dag och för att handlingslistan finns på BuyBuy så kan Sara se
     den utan att behöva störa Tim.
 
+ 
+
+Anders scenario 1
+
+    En vanlig dag hos familjen frun är bort rest i tjänsten ungarna sover och
+    Anders är på väg till jobbet, då Anders inte har kommit ihåg att göra en
+    handligslista så är läget “kritiskt” Anders orkar inte åka hem åt tillbaka
+    han bestämmer sig för att ringa hem och be barnen skapa en BuyBuy innan de
+    åker hemifrån, detta sparade Anders tid och pengar så nu kunde Anders direkt
+    se vad som behövdes handlas via sin smartphone.
+
+    
+
 #### 1.2.1 Exempelscenario \#\#\#\#
 
 Birgittas skift har precis börjat. Som vanligt är avdelningen full av patienter
