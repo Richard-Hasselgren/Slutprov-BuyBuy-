@@ -33,7 +33,10 @@ Sara 27 år, Gift.
     resulterar i att hon jobbar en heldel, samtidigt så tränar hon en heldel
     detta resulterar i att handling hamnar långt ner på listan, och Tim är
     anställd via kommunen och har långa dagar på jobbet. Dem är precis vad som
-    matchar gruppen, fult upp i livet.
+    matchar gruppen, fult upp i livet. BuyBuy kan hjälpa de att dela
+    handlingslistan mellan varandra oavsett om båda är hemma så att mat finns
+    hemma efter en lång dag på jobbet eller om det är så att det behövs handlas
+    så kan båda göra
 
  
 
@@ -56,49 +59,18 @@ Anders 46 år, Gift och har två barn i tonåren.
 
  
 
-#### 1.1.1 Exempelpersona \#\#\#\#
-
-Birgitta är 52 år och är chefsjuksköterska på vårdavdelning 51 på Radium-hemmet
-vid Karolinska Sjukhuset i Stockholm. Birgitta är väldigt erfaren sjuksköterska
-och gillar sitt arbete. Hon tycker om utmaningen att vara chef över en hel
-avdelning och tycker om alla de varierande uppgifter som ingår i hennes jobb.
-Hon tycker dock att det ibland kan variera lite väl mycket, Birgitta ogillar
-framförallt tekniskt strul på datorer och annan utrustning. Hon behöver även
-ofta hantera problem på grund av att det är för lite personal på avdelningen och
-för många patienter.
-
-Birgitta är gift med Lennart som är ingenjör och jobbar på Vägverket, de har två
-söner Patrik och Mattias. Birgitta är mån om sin familj och sin fritid då hon
-bland annat sjunger i en kyrkokör som i år kommer att delta i konserten Toner
-för Miljoner i Globen. På somrarna flyttar Birgitta och Lennart ut i deras
-sommarhus i Skärgården.
-
-**Mål**
-
-Birgittas mål är att se till att de patienter som kommer in på deras avdelning
-får bra vård samt att skapa en bra arbetsmiljö för sina medarbetare.
-
-Ni ska skapa 2-3 personas. Se till att välja ut för applikationen arketypiska
-användare.
-
 ### 1.2 Scenarion \#\#\#
 
-På samma sätt som en persona är en påhittade användare, är ett scenaria en
-beskrivning av ett påhittat arbetsflöde, som en persona vill utföra. Med andra
-ord är ett scenario en beskrivning av hur en användare använder produkten för
-att uppnå ett mål. Scenarios är vanligtvis en sammanhängande text, som beskriver
-en eller flera uppgifter i ett sammanhang.
+Sara scenario 1 -  Sara åkte hemifrån tidigt för att hinna med ett möte, hon ser
+att de saknar varor till middagen ikväll, hon påbörjar en ny handlingslista via
+BuyBuy och skriv in alla varor hon ser saknas och innan hon går så lämnar hon en
+lapp till Tim att hon kommer handla men eftersom att Tim ligger och sover så vet
+inte Sara att Tim behövde några varor handlade, och för att Sara ska sitta i
+möten tills hon slutar så kan inte Tim inte få tag på Sara om det inte hade
+varit för BuyBuy för då kan Tim lägga till de varor han vill ha handlade utan
+att Sara behöver märka detta.
 
-Scenarion identifierar ofta viktiga aspekter av att använda produkten i
-verklighete. Scenarios kan vara detaljerade och beskriva en enskild funktion,
-eller kan vara lite övergripande och beskriva ett arbetsflöde.
-
-Ni ska skapa 2-3 scencarios per persona. Se till att varje scenario beskriver
-för personan viktiga aktiviteter.
-
-Sara 1 - BuyBuy kan hjälpa de att dela handlingslistan mellan varandra oavsätt
-om båda är hemma så att mat finns hemma efter en lång dag på jobbet eller om det
-är så att det behövs handlas så kan båda göra
+ 
 
 #### 1.2.1 Exempelscenario \#\#\#\#
 
