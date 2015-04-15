@@ -61,16 +61,26 @@ Anders 46 år, Gift och har två barn i tonåren.
 
 ### 1.2 Scenarion \#\#\#
 
-Sara scenario 1 -  Sara åkte hemifrån tidigt för att hinna med ett möte, hon ser
-att de saknar varor till middagen ikväll, hon påbörjar en ny handlingslista via
-BuyBuy och skriv in alla varor hon ser saknas och innan hon går så lämnar hon en
-lapp till Tim att hon kommer handla men eftersom att Tim ligger och sover så vet
-inte Sara att Tim behövde några varor handlade, och för att Sara ska sitta i
-möten tills hon slutar så kan inte Tim inte få tag på Sara om det inte hade
-varit för BuyBuy för då kan Tim lägga till de varor han vill ha handlade utan
-att Sara behöver märka detta.
+Sara scenario 1
 
- 
+    Sara åkte hemifrån tidigt för att hinna med ett möte, hon ser att de saknar
+    varor till middagen ikväll, hon påbörjar en ny handlingslista via BuyBuy och
+    skriv in alla varor hon ser saknas och innan hon går så lämnar hon en lapp
+    till Tim att hon kommer handla men eftersom att Tim ligger och sover så vet
+    inte Sara att Tim behövde några varor handlade, och för att Sara ska sitta i
+    möten tills hon slutar så kan inte Tim inte få tag på Sara om det inte hade
+    varit för BuyBuy för då kan Tim lägga till de varor han vill ha handlade
+    utan att Sara behöver märka detta.
+
+Sara scenario 2
+
+    Sara och Tim har kommit överens med att Tim ska handla efter han har varit
+    på jobbet fast Sara slutar tidigare från jobbet. Ett problem uppstår Tims
+    möte blir flyttat till en senare tid vilket resulterar i att butiken skulle
+    hinna stängas, Tim skickar ett sms till Sara som säger att han kommer inte
+    hinna handla pga sitt möte, Sara bestämmer sig att hon hinner träna och
+    handla denna dag och för att handlingslistan finns på BuyBuy så kan Sara se
+    den utan att behöva störa Tim.
 
 #### 1.2.1 Exempelscenario \#\#\#\#
 
