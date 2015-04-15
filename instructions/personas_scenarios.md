@@ -26,7 +26,7 @@ sammanhang.
 
 ![](<personas_scenarios.images/1FBQl8.jpg>)
 
-Sara 27 år, Gift
+Sara 27 år, Gift.
 
     Ny examinerad jurist som älskar att träna, bor ihop med sin make Tim 28 år.
     Sara är i början av sin karriär och har därför fult upp med sitt jobb vilket
@@ -34,6 +34,27 @@ Sara 27 år, Gift
     detta resulterar i att handling hamnar långt ner på listan, och Tim är
     anställd via kommunen och har långa dagar på jobbet. Dem är precis vad som
     matchar gruppen, fult upp i livet.
+
+ 
+
+![](<personas_scenarios.images/8zjOsB.jpg>)
+
+ 
+
+Anders 46 år, Gift och har två barn i tonåren.
+
+    Anders jobbande som mattläggare och är väldigt intresserad av IT vilket har
+    resulterat i att hela familjen har datorer, smarthphones med mera. Anders
+    fru är anställd på SEB som chef och är borta på olika konferenser, detta med
+    att de har två tonåringar hemma har skapat ett problem, Anders som åker
+    hemifrån tidigt på morgonen och är den som handlar eftersom han slutar vid
+    14 tiden dock så brukar barnen göra slut på saker som behövs så måste,
+    Anders alltid ringa eller åka hem innan han handlar vilket tar mer tid
+    eftersom den butik dem handlar från ligger längst den väg Anders åker varje
+    dag, Anders skulle kunna spara tid om han fick sin handlingslista uppdaterad
+    under dag utan att behöva ringa eller åka hem.
+
+ 
 
 #### 1.1.1 Exempelpersona \#\#\#\#
 
