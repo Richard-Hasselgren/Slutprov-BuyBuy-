@@ -48,9 +48,6 @@ tillgänglighet!
 
 ### 1.2 Analys och urval
 
-Diskutera, analysera, kategorisera och välj ut de olika intressenterna och deras
-mål.
-
 Tillgänglighet, enkelhet är den stor del av denna tjänst så att anpassa den för
 personer med behov är något som är riktigt givande!
 
@@ -58,6 +55,17 @@ Tillgänglighets-mål - Något som skulle vara en hjälpande för personer med
 försämrad syn är att man kan tillåta personer ändra teckensnitt och storlek, och
 personer med färgblindhet är det bra att man använder neutrala färger som alla
 kan se grå-skaligafärger.
+
+När man vill få med sig de stora skedjorna så gäller det att man får med sig dem
+på att man måste använda enkla funktioner om man ska få kunder att använda
+tjänsten, men ändå ha något unikt för de företaget.
+
+Sortiment är något som ska vara värt att lägga till.
+
+Användaren vill se enkelhet, och ett måste för att nå kunder då det finns
+liknade tjänster där ute.
+
+ 
 
 2 Rapport
 ---------
@@ -80,11 +88,13 @@ Richard Hasselgren - Designer, Programerare.
 
 ### 2.4 Målgrupper och deras mål
 
-En kort beskrivning av de målgrupper ni identifierat och deras mål
+Målgruppen är i åldern 25-50 år som har tillgång till internet och använder
+mobilaenheter liksom datorer och det har stora problem med att få handlingen att
+gå ihop.
 
 ### 2.5 Företagets mål
 
-En kort beskrivning av företagets mål
+Enkelhet i vardagen.
 
 ### 2.6 Eventuella konflikter mellan målen
 
