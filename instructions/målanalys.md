@@ -16,29 +16,48 @@ livskjedjor vara intresserade såsom ICA där deras sortiment finns direkt i
 applikation, denna kan även användas till andra skjedjor såsom IKEA, Jula,
 Elgiganten bara för att ge exempel på framtida beställare.
 
-Beställare kan vilja att deras sortiment eller recept(Livsmedelskedjor) ska
+Beställare kan vilja att deras sortiment eller recept(livsmedelskedjor) ska
 finnas i databasen för kunderna, att använda men också skapa mer köp här kommer
 en kofflict eftersom att detta kan skapa försvårande omständigheter för kunderna
 då man vill att applikationen ska bli enkel, inte komplicerad.
 
-Kunderkrätsen är folk i åldersspannen 25 - 50, de som använder mobilaenheter och
-är alltid på väg någonstans och vill ha sina saker alltid tillgängligt.
+Kunderkrätsen är folk i åldersspannen 25 - 50, de som använder mobilaenheter,
+datorer med tillgång till internet och är alltid på väg någonstans och vill ha
+sina saker alltid tillgängligt.
+
+Det är viktigt med att hålla applikationen enkel för att kunna nå alla kunder
+som ingår i kundkrätsen.
 
 1 Genomförande
 --------------
 
 ### 1.1 Brainstorm
 
-Genom brainstorming skall ni analysera alla intressenters mål. När ni analyserar
-beställarens mål ska ni försöka förstå det bakomliggande företagets idéer och
-eventuella framtid - det vill säga, basera målen på vad nu upplever beställaren
-har för mål nu, men bygg vidare med eventuella nya mål ni kan tänka att den nya
-applikationen kan möjliggöra.
+Genom gående enkelhet och tillgänglighet i applikation är huvudmålet!
+
+Beställare - Först kommer denna applikation riktas mot livsmedelskedjor, men
+denna applikation har flera mögliga användningar, då den passar alla
+butikskedjor som säljer varor men detta är en senare fråga. Tex ICA kan vilja
+använda denna tjänst för att nå fler kunder genom att personer kan se
+lagersaldon, sortiment och kanske exempel på recept helt för att skapa mer
+försjälning.
+
+Användare - Deras mål är att förenkla deras vardag, heliga ord eftersom man ska
+inte skapa för mycket funktioner eftersom den ska ändå ersätta en lapp, och
+tillgänglighet!
 
 ### 1.2 Analys och urval
 
 Diskutera, analysera, kategorisera och välj ut de olika intressenterna och deras
 mål.
+
+Tillgänglighet, enkelhet är den stor del av denna tjänst så att anpassa den för
+personer med behov är något som är riktigt givande!
+
+Tillgänglighets-mål - Något som skulle vara en hjälpande för personer med
+försämrad syn är att man kan tillåta personer ändra teckensnitt och storlek, och
+personer med färgblindhet är det bra att man använder neutrala färger som alla
+kan se grå-skaligafärger.
 
 2 Rapport
 ---------
@@ -48,15 +67,16 @@ vara *minst* 2 sidor.
 
 ### 2.1 Uppgift
 
-Namnet på uppgiften, i det här fallet *Målanalys*
+BuyBuy en todo list för handlingslistor.
 
 ### 2.2 Företag
 
-En kort beskrivning av företaget
+BuyBuy vilja är att förenkla vardagen med en enkel att använda, alltid
+tillgänglig handlingslista
 
 ### 2.3 Deltagare
 
-Namnet på gruppens deltagare, och eventuella roller dessa har
+Richard Hasselgren - Designer, Programerare.
 
 ### 2.4 Målgrupper och deras mål
 
