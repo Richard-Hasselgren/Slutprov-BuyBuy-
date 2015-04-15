@@ -61,7 +61,7 @@ Anders 46 år, Gift och har två barn i tonåren.
 
 ### 1.2 Scenarion \#\#\#
 
-Sara scenario 1
+Sara scenario 1  - Tim lägger till varor
 
     Sara åkte hemifrån tidigt för att hinna med ett möte, hon ser att de saknar
     varor till middagen ikväll, hon påbörjar en ny handlingslista via BuyBuy och
@@ -72,7 +72,9 @@ Sara scenario 1
     varit för BuyBuy för då kan Tim lägga till de varor han vill ha handlade
     utan att Sara behöver märka detta.
 
-Sara scenario 2
+ 
+
+Sara scenario 2 - En annan måste handla
 
     Sara och Tim har kommit överens med att Tim ska handla efter han har varit
     på jobbet fast Sara slutar tidigare från jobbet. Ett problem uppstår Tims
@@ -84,7 +86,7 @@ Sara scenario 2
 
  
 
-Anders scenario 1
+Anders scenario 1 - Glömt bort att göra en handlingslistan
 
     En vanlig dag hos familjen frun är bort rest i tjänsten ungarna sover och
     Anders är på väg till jobbet, då Anders inte har kommit ihåg att göra en
@@ -95,7 +97,7 @@ Anders scenario 1
 
      
 
-Anders scenario 2
+Anders scenario 2 - Fredagen är räddad
 
     Det är fredag och familjen ska ha fredagsmys framför TVn, Anders har
     förberett handlingslistan för kvällens festligheter. Denna dag ska också
@@ -108,41 +110,7 @@ Anders scenario 2
 
 ####  
 
-2 Rapport \#\#
-
-Rapporten ska följa nedanstående mall. Rapporten bör vara *minst* 2 sidor (minst
-en halv sida per persona + scenarios)
-
-### 2.1 Uppgift \#\#\#
-
-Namnet på uppgiften, i det här fallet *Personas och scenarios*
-
-### 2.2 Företag \#\#\#
-
-En kort beskrivning av företaget
-
-### 2.3 Deltagare \#\#\#
-
-Namnet på gruppens deltagare, och eventuella roller dessa har
-
-*För var och en av era personas*
-
-### 2.4 Namn och titel på personan \#\#\#
-
-Personan, med bild.
-
-### 2.5 Scenarios \#\#\#
-
-2-3 st scenarios för personan
-
-### 2.6 Lärdomar & reflektioner \#\#\#
-
-Vad har ni lärt er av uppgiften? (inte nödvändigtvis kopplat till
-gränssnittsdesign). Finns det något ni skulle göra annorlunda nästa gång?
-
-### 2.7 Utvecklingsområden \#\#\#
-
-Finns det något ni vill lära er mer om?
+ 
 
  
 
