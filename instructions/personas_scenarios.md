@@ -93,27 +93,22 @@ Anders scenario 1
     åker hemifrån, detta sparade Anders tid och pengar så nu kunde Anders direkt
     se vad som behövdes handlas via sin smartphone.
 
-    
+     
 
-#### 1.2.1 Exempelscenario \#\#\#\#
+Anders scenario 2
 
-Birgittas skift har precis börjat. Som vanligt är avdelningen full av patienter
-och hon har en lång och hektisk dag framför sig. Efter mötet med det avgående
-skiftet går hon in på sitt kontor och börjar planera dagen. När hon är klar med
-planeringen kontrollerar hon om hon har fått några e- postmeddelanden och hon
-ser att hon har fått en notis om ett ändringsförslag från en av hennes
-medarbetare som ligger på Intranätet. I e-notisen finns en länk till Intranätet
-och hon klickar på den.
+    Det är fredag och familjen ska ha fredagsmys framför TVn, Anders har
+    förberett handlingslistan för kvällens festligheter. Denna dag ska också
+    frun komma hem från Danmark och eftersom att hon landar i Sverige redan vid
+    10-tiden så ska hon handla, utan att behöva sitta och skicka långa sms om
+    vad som ska handlas kan hon lätt få tag i den genom BuyBuy. Frun kommer hem
+    och upptäcker att OLWs chips och dipp saknas till kvällen snabbt skickar hon
+    ett meddelande att Anders behöver handla detta och det finns på BuyBuy
+    kvällen är räddad för det inte fredagsmys utan OLW!
 
-Hon kommer direkt in på avdelningen ”Serviceåtagande & Beställningar” i
-underavdelningen ”ändringsförslag”. Hon ser att Johan har föreslagit tätare
-städning av dagrummet och hon tycker att det är en bra ide. Under
-ändringsförslaget finns en knapp, ”Godkänt”, och Birgitta klickar på den. Det
-gör att ändringsförslaget blir godkänt av Birgitta och blir automatiskt en
-beställning till deras städföretag. Birgitta tittar igenom beställningen och
-skickar iväg den.
+####  
 
-\#\# 2 Rapport \#\#
+2 Rapport \#\#
 
 Rapporten ska följa nedanstående mall. Rapporten bör vara *minst* 2 sidor (minst
 en halv sida per persona + scenarios)
