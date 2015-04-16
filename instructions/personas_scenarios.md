@@ -1,117 +1,84 @@
-Personas och scenarion \#
-=========================
+# Personas och scenarion #
 
-Beskrivning \#\#
-----------------
+## Beskrivning ##
 
-För att kunna skapa ett gränssnitt som är anpassat till målgruppen måste man
-veta vilka målgruppen består av. Personas är en beskrivning av en påhittad
-arketypisk användare av systemet.
+För att kunna skapa ett gränssnitt som är anpassat till målgruppen måste man veta vilka målgruppen består av. Personas är en beskrivning av en påhittad arketypisk användare av systemet.
 
-För att kunna försvara varför applikationen behöver viss funktionalitet behöver
-man sätta funktionaliteten i ett sammanhang. Scenarion är en beskrivande text
-som gör detta.
+För att kunna försvara varför applikationen behöver viss funktionalitet behöver man sätta funktionaliteten i ett sammanhang. Scenarion är en beskrivande text som gör detta.
 
 Syftet med att skapa personas är att förtydliga vilka de tänkta användarna är.
-Syftet med att skapa scenarios är att sätta applikationens funktionalitet i ett
-sammanhang.
+Syftet med att skapa scenarios är att sätta applikationens funktionalitet i ett sammanhang.
 
- 
--
+## 1 Genomförande ##
 
-1 Genomförande \#\#
--------------------
+### 1.1 Personas ###
 
-### 1.1 Personas \#\#\#
+En persona är en beskrivning av en person; ett exempel. Beskrivningen ska innehålla demografisk information (ålder, inkomst, kön, äktenskaplig status, etc), men ska också fånga upp personens drivkrafter, personliga övertygelser, intentioner, beteenden och mål.
 
-![](<personas_scenarios.images/1FBQl8.jpg>)
+För att göra beskrivningen mer verklig ska ni använda en bild på personen (antingen ritad, eller ett foto). Ge hen ett namn, en arbetstitel, en bakgrund, en social situation, drömmar, mål, etc. 
 
-Sara 27 år, Gift.
+Om ni skapar en trovärdig persona kommer det hjälpa er att skapa empati kring personen och vad hen vill åstadkomma. Empatin kommer leda till insikter, vilka i sin tur kommer leda till designmöjligheter.
 
-    Ny examinerad jurist som älskar att träna, bor ihop med sin make Tim 28 år.
-    Sara är i början av sin karriär och har därför fult upp med sitt jobb vilket
-    resulterar i att hon jobbar en heldel, samtidigt så tränar hon en heldel
-    detta resulterar i att handling hamnar långt ner på listan, och Tim är
-    anställd via kommunen och har långa dagar på jobbet. Dem är precis vad som
-    matchar gruppen, fult upp i livet. BuyBuy kan hjälpa de att dela
-    handlingslistan mellan varandra oavsett om båda är hemma så att mat finns
-    hemma efter en lång dag på jobbet eller om det är så att det behövs handlas
-    så kan båda göra
+#### 1.1.1 Exempelpersona ####
 
- 
+Birgitta är 52 år och är chefsjuksköterska på vårdavdelning 51 på Radium-hemmet vid Karolinska Sjukhuset i Stockholm. Birgitta är väldigt erfaren sjuksköterska och gillar sitt arbete. Hon tycker om utmaningen att vara chef över en hel avdelning och tycker om alla de varierande uppgifter som ingår i hennes jobb. Hon tycker dock att det ibland kan variera lite väl mycket, Birgitta ogillar framförallt tekniskt strul på datorer och annan utrustning. Hon behöver även ofta hantera problem på grund av att det är för lite personal på avdelningen och för många patienter.
 
-![](<personas_scenarios.images/8zjOsB.jpg>)
+Birgitta är gift med Lennart som är ingenjör och jobbar på Vägverket, de har två söner Patrik och Mattias. Birgitta är mån om sin familj och sin fritid då hon bland annat sjunger i en kyrkokör som i år kommer att delta i konserten Toner för Miljoner i Globen. På somrarna flyttar Birgitta och Lennart ut i deras sommarhus i Skärgården.
 
- 
+**Mål**
 
-Anders 46 år, Gift och har två barn i tonåren.
+Birgittas mål är att se till att de patienter som kommer in på deras avdelning får bra vård samt att skapa en bra arbetsmiljö för sina medarbetare.
 
-    Anders jobbande som mattläggare och är väldigt intresserad av IT vilket har
-    resulterat i att hela familjen har datorer, smarthphones med mera. Anders
-    fru är anställd på SEB som chef och är borta på olika konferenser, detta med
-    att de har två tonåringar hemma har skapat ett problem, Anders som åker
-    hemifrån tidigt på morgonen och är den som handlar eftersom han slutar vid
-    14 tiden dock så brukar barnen göra slut på saker som behövs så måste,
-    Anders alltid ringa eller åka hem innan han handlar vilket tar mer tid
-    eftersom den butik dem handlar från ligger längst den väg Anders åker varje
-    dag, Anders skulle kunna spara tid om han fick sin handlingslista uppdaterad
-    under dag utan att behöva ringa eller åka hem.
+Ni ska skapa 2-3 personas. Se till att välja ut för applikationen arketypiska användare.
 
- 
+### 1.2 Scenarion ###
 
-### 1.2 Scenarion \#\#\#
+På samma sätt som en persona är en påhittade användare, är ett scenaria en beskrivning av ett påhittat arbetsflöde, som en persona vill utföra. Med andra ord är ett scenario en beskrivning av hur en användare använder produkten för att uppnå ett mål. Scenarios är vanligtvis en sammanhängande text, som beskriver en eller flera uppgifter i ett sammanhang.
 
-Sara scenario 1  - Tim lägger till varor
+Scenarion identifierar ofta viktiga aspekter av att använda produkten i verklighete. Scenarios kan vara detaljerade och beskriva en enskild funktion, eller kan vara lite övergripande och beskriva ett arbetsflöde.
 
-    Sara åkte hemifrån tidigt för att hinna med ett möte, hon ser att de saknar
-    varor till middagen ikväll, hon påbörjar en ny handlingslista via BuyBuy och
-    skriv in alla varor hon ser saknas och innan hon går så lämnar hon en lapp
-    till Tim att hon kommer handla men eftersom att Tim ligger och sover så vet
-    inte Sara att Tim behövde några varor handlade, och för att Sara ska sitta i
-    möten tills hon slutar så kan inte Tim inte få tag på Sara om det inte hade
-    varit för BuyBuy för då kan Tim lägga till de varor han vill ha handlade
-    utan att Sara behöver märka detta.
+Ni ska skapa 2-3 scencarios per persona. Se till att varje scenario beskriver för personan viktiga aktiviteter.
 
- 
+#### 1.2.1 Exempelscenario ####
 
-Sara scenario 2 - En annan måste handla
+Birgittas skift har precis börjat. Som vanligt är avdelningen full av patienter och hon har en lång och hektisk dag framför sig. Efter mötet med det avgående skiftet går hon in på sitt kontor och börjar planera dagen. När hon är klar med planeringen kontrollerar hon om hon har fått några e- postmeddelanden och hon ser att hon har fått en notis om ett ändringsförslag från en av hennes medarbetare som ligger på Intranätet. I e-notisen finns en länk till Intranätet och hon klickar på den.
 
-    Sara och Tim har kommit överens med att Tim ska handla efter han har varit
-    på jobbet fast Sara slutar tidigare från jobbet. Ett problem uppstår Tims
-    möte blir flyttat till en senare tid vilket resulterar i att butiken skulle
-    hinna stängas, Tim skickar ett sms till Sara som säger att han kommer inte
-    hinna handla pga sitt möte, Sara bestämmer sig att hon hinner träna och
-    handla denna dag och för att handlingslistan finns på BuyBuy så kan Sara se
-    den utan att behöva störa Tim.
+Hon kommer direkt in på avdelningen ”Serviceåtagande & Beställningar” i underavdelningen ”ändringsförslag”. Hon ser att Johan har föreslagit tätare städning av dagrummet och hon tycker att det är en bra ide. Under ändringsförslaget finns en knapp, ”Godkänt”, och Birgitta klickar på den. Det gör att ändringsförslaget blir godkänt av Birgitta och blir automatiskt en beställning till deras städföretag. Birgitta tittar igenom beställningen och skickar iväg den.
 
- 
 
-Anders scenario 1 - Glömt bort att göra en handlingslistan
+## 2 Rapport ##
 
-    En vanlig dag hos familjen frun är bort rest i tjänsten ungarna sover och
-    Anders är på väg till jobbet, då Anders inte har kommit ihåg att göra en
-    handligslista så är läget “kritiskt” Anders orkar inte åka hem åt tillbaka
-    han bestämmer sig för att ringa hem och be barnen skapa en BuyBuy innan de
-    åker hemifrån, detta sparade Anders tid och pengar så nu kunde Anders direkt
-    se vad som behövdes handlas via sin smartphone.
+Rapporten ska följa nedanstående mall. Rapporten bör vara *minst* 2 sidor (minst en halv sida per persona + scenarios)
 
-     
+### 2.1 Uppgift ###
 
-Anders scenario 2 - Fredagen är räddad
+Namnet på uppgiften, i det här fallet *Personas och scenarios*
 
-    Det är fredag och familjen ska ha fredagsmys framför TVn, Anders har
-    förberett handlingslistan för kvällens festligheter. Denna dag ska också
-    frun komma hem från Danmark och eftersom att hon landar i Sverige redan vid
-    10-tiden så ska hon handla, utan att behöva sitta och skicka långa sms om
-    vad som ska handlas kan hon lätt få tag i den genom BuyBuy. Frun kommer hem
-    och upptäcker att OLWs chips och dipp saknas till kvällen snabbt skickar hon
-    ett meddelande att Anders behöver handla detta och det finns på BuyBuy
-    kvällen är räddad för det inte fredagsmys utan OLW!
+### 2.2 Företag ###
 
-####  
+En kort beskrivning av företaget
 
- 
+### 2.3 Deltagare ###
 
- 
+Namnet på gruppens deltagare, och eventuella roller dessa har
 
- 
+*För var och en av era personas*
+
+### 2.4 Namn och titel på personan ###
+
+Personan, med bild.
+
+### 2.5 Scenarios ###
+
+2-3 st scenarios för personan
+
+### 2.6 Lärdomar & reflektioner ###
+
+Vad har ni lärt er av uppgiften? (inte nödvändigtvis kopplat till gränssnittsdesign). Finns det något ni skulle göra annorlunda nästa gång?
+
+### 2.7 Utvecklingsområden ###
+
+Finns det något ni vill lära er mer om?
+
+
+
