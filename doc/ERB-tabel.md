@@ -5,36 +5,46 @@ ERB - Tabell
 
 ### USER
 
-    -   ID
+     
 
-    -   FNamn
+    -   id
 
-    -   ENamn
+    -   f\_name
+
+    -   l\_name
 
     -   email/username
 
     -   SHOP-list\_id
 
-    -    
+     
 
                      
 
-### SHOP-list
+### SHOP-list              
 
-    -   ID
+(Kan ha många USERs och USER kan ha många listor)
+
+    -   id
 
     -   name
 
     -   items
 
-    -    
-
      
 
-### USER-privliges
+         
+
+ 
+
+### Privileg
+
+ 
 
     -   USER\_id
 
-    -   SHOP-list\_id
+    -   SHOP-list\_id  (många till många)
 
-    -   axcesses
+    -   id
+
+    -   accesses
