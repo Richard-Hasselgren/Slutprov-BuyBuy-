@@ -51,6 +51,8 @@ tillgänglighet!
 Tillgänglighet, enkelhet är den stor del av denna tjänst så att anpassa den för
 personer med behov är något som är riktigt givande!
 
+<http://designshack.net/articles/accessibility/tips-for-designing-for-colorblind-users/>
+
 Tillgänglighets-mål - Något som skulle vara en hjälpande för personer med
 försämrad syn är att man kan tillåta personer ändra teckensnitt och storlek, och
 personer med färgblindhet är det bra att man använder neutrala färger som alla
@@ -67,6 +69,10 @@ liknade tjänster där ute.
 
 Designen på BuyBuy hämtas ur tänket med Googles material design. Färger, former
 och senare skede animerad rörelser vid tryck på object.
+
+<https://www.google.com/design/spec/material-design/introduction.html>
+
+<http://www.materialup.com>
 
 2 Rapport
 ---------
