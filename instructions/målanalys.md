@@ -65,7 +65,8 @@ Sortiment är något som ska vara värt att lägga till.
 Användaren vill se enkelhet, och ett måste för att nå kunder då det finns
 liknade tjänster där ute.
 
- 
+Designen på BuyBuy hämtas ur tänket med Googles material design. Färger, former
+och senare skede animerad rörelser vid tryck på object.
 
 2 Rapport
 ---------
