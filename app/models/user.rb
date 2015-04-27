@@ -1,12 +1,8 @@
 class User
+  include DataMapper::Resource
 
-  def initialize(firstname, lastname)
-    @firstname = firstname
-    @lastname = lastname
-  end
-
-  def name
-    "#{@firstname} #{@lastname}"
-  end
+  property :id, Serial  # primary serial key
+  property :uname, String, required: true   # Cannot be nil
+  property :pass, BCryptHash, required: true  # Cannot be nil
 
 end
