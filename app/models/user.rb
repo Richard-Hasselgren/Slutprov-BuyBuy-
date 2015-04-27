@@ -5,4 +5,6 @@ class User
   property :uname, String, required: true   # Cannot be nil
   property :pass, BCryptHash, required: true  # Cannot be nil
 
+  has n, :lists
+
 end
