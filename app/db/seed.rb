@@ -11,8 +11,8 @@ class Seeder
   end
 
   def self.lists
-    List.create(name: 'Grillkorv', user: User.first)
-    List.create(name: 'Senap', user: User.second)
+    List.create(name: 'Grillkorv', user_id: 1)
+    List.create(name: 'Senap', user_id: 2)
   end
 
 end
