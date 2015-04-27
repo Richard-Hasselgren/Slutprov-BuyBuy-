@@ -1,7 +1,8 @@
 class App < Sinatra::Base
   enable :sessions
 
-  get '/' do
+  get 'lists' do
+    User.all
 
   end
 
