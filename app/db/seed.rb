@@ -7,7 +7,7 @@ class Seeder
   end
 
   def self.users
-    User.create(uname: 'banan', pass: 'hejhej')
+    User.create(uname: 'Richard', pass: 'ohnoplz')
     User.create(uname: 'banan2', pass: 'hejhej2')
   end
 
