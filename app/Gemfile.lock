@@ -138,6 +138,7 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
+  bcrypt-ruby
   capybara
   data_mapper
   dm-postgres-adapter

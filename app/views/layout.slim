@@ -1,8 +1,12 @@
 doctype html
-  html
-    head
-      title Hello
+html
+  head
+    meta charset="utf-8"
+    title BuyBuy
+    link rel="stylesheet" media="screen, projection" href="./styles.css"
+    /[if lt IE 9]
+      script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"
+  body
+    h1 BuyBuy - Handlingslistor
 
-    body <h1>Leave me</h1>
-
-      == yield
+    ==yield
