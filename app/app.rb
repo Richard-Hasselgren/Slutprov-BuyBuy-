@@ -39,12 +39,16 @@ class App < Sinatra::Base
   get '/welcome' do
     if session[:user]
       @user = User.get(session[:user])
+      @lists = @user.lists
       slim :welcome
     else
       redirect '/'
     end
   end
 
+  get '/list' do
+    slim :list
+  end
 
 
 end
