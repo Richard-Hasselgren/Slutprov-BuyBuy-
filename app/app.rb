@@ -5,6 +5,10 @@ class App < Sinatra::Base
     slim :index
   end
 
+  get '/login' do
+
+  end
+
 
 #  get '/lists' do
  #   User.all
