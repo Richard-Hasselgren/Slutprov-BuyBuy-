@@ -23,6 +23,16 @@ class App < Sinatra::Base
     slim :sign
   end
 
+  post '/sign' do
+    sign = User.create(uname: params['uname'], pass: params['pass'])
+    if sign && sign.valid?
+      session[:user] = sign.id
+      redirect '/welcome'
+    else
+      redirect '/sign'
+    end
+  end
+
   get '/welcome' do
     if session[:user]
       @user = User.get(session[:user])
@@ -32,11 +42,6 @@ class App < Sinatra::Base
     end
   end
 
-
-#  get '/lists' do
- #   User.all
-#
- # end
 
 
 end
