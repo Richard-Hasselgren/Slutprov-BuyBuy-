@@ -1,4 +1,10 @@
-h2 Välkommen #{@user.uname}
+h2 Välkommen: #{@user.uname.capitalize}
+
+a href="/" Logga ut
+
+form action="/new/list" method="post"
+  input type="text" name="list[name]"
+  input.button type="submit" value="Skapa lista"
 
 ul
   - for list in @lists
