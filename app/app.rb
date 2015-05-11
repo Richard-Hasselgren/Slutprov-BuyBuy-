@@ -46,16 +46,30 @@ class App < Sinatra::Base
     end
   end
 
-  get '/list_item' do
+  post '/list/create' do
     if session[:user]
       @user = User.get(session[:user])
+      @list = List.create(name: params['name'])
+      redirect '/welcome'
+    end
+    redirect '/error'
+  end
+
+
+  get '/list/:id' do |list_id|
+    if session[:user]
+      @user = User.get(session[:user])
+      @list = List.get(list_id)
+      @list_items = @list.list_items
+      slim :list
     else
       redirect '/'
     end
-    slim :list_item
   end
 
-  #post
+  get '/error' do
+    slim :error
+  end
 
 
 end
