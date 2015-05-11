@@ -61,10 +61,10 @@ class App < Sinatra::Base
       @user = User.get(session[:user])
       @list = List.get(list_id)
       @list_items = @list.list_items
-      slim :list
     else
       redirect '/'
     end
+    slim :list
   end
 
   get '/error' do
